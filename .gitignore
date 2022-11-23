@@ -1,0 +1,8 @@
+*.out
+sh
+test
+test.c
+*.gch
+.idea
+.vscode
+*.o
